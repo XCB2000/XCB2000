@@ -1,6 +1,12 @@
-## About Me 
-![ME IRL](https://user-images.githubusercontent.com/99328686/153312158-ae5a89b9-f193-4a2b-91a2-d42b21bd3ba9.jpg)
+<h1 align="center">About Me</h1>
 
+<p align = "center">  
+  <img src = "https://user-images.githubusercontent.com/99328686/153312158-ae5a89b9-f193-4a2b-91a2-d42b21bd3ba9.jpg">
+</p>
+<p align = "center">
+ Photo of me irl
+</p>
+ 
 I am now a fourth-year undergraduate student at the University of Melbourne. Initially, I wanted to be a physicist, however after 2.5 years of study (completing the physics major requirements in this time) I've decided that I want to work in data science instead. I have since enrolled into concurrent diplomas in statistics and computer science since Melbourne doesn't have double majors for science.   
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)
 ## Subjects I'm Currently Taking
