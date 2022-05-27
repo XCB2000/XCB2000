@@ -21,9 +21,9 @@ Whatever I end up doing, it's going to involve a computer, math, and some form o
 - David Batt (Real Analysis and Vector Calculus tutor)
 - Lachlan Tantau (VCE and UMEP Physics teacher)
 - Eugene Roizman (VCE Spesh and Methods teacher)
+- Erica Sporri (VCE Biology Teacher)
 - Martin Corcoran (Jazz Band Conductor) 
-- Erica Sporri (Biology Teacher)
-- Ursula Parker (Science Teacher) 
+- Simon Upchurch (Primary School Teacher)  
 - Karin Wessels (Primary School Teacher)  
 - Akira Twang (for inspiring this readme file) [His Post](https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/README.md)
 
@@ -54,7 +54,5 @@ Whatever I end up doing, it's going to involve a computer, math, and some form o
 
 ## My Personal Subject Reviews 
 
-**Foundations of Algorithms**:  
-- great
 section tbc
 
