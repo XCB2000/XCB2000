@@ -10,9 +10,9 @@
 ## About Me  
 At the moment, I am most interested in the application of techniques of data science and statistics to broader science. One example of this is the use of different forms of machine learning to medical science, but there are many more. 
 I also have an interest in scientific computing appllied to engineering, however I don't have much experience in it yet.
-Whatever I end up doing, it's going to involve a computer, math, and some form of research (either industrial or academic).
+Whatever I end up doing, it's going to involve a computer, math, and some form of research (either industrial or academic).  
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)  
-[My Facebook](https://www.facebook.com/profile.php?id=100011710417222)  
+[My Facebook](https://www.facebook.com/profile.php?id=100011710417222)    
 [My website](https://github.com/xanderbritz/xanderbritz.github.io)  
 
 ## Thank You!!
@@ -25,7 +25,6 @@ Whatever I end up doing, it's going to involve a computer, math, and some form o
 - Erica Sporri (Biology Teacher)
 - Ursula Parker (Science Teacher) 
 - Karin Wessels (Primary School Teacher)  
-and lastly
 - Akira Twang (for inspiring this readme file) [His Post](https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/README.md)
 
 ## Subjects I'm Currently Taking
