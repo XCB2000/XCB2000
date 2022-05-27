@@ -6,12 +6,15 @@
 <p align = "center">
  Photo of me irl
 </p>
+
 ## About Me  
+
 I am now a fourth-year undergraduate student at the University of Melbourne. Initially, I wanted to be a physicist, however after 2.5 years of study (completing the physics major requirements in this time) I've decided that I want to work in data science instead. I have since enrolled into concurrent diplomas in statistics and computer science since Melbourne doesn't have double majors for science.   
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)
-
+[My Facebook](https://www.facebook.com/profile.php?id=100011710417222)
+[My website](to be added)
 ## Thank You!!
-- Alistair Moffat and Artem Polyvyanyy (Foundations of Algorithms Lecturers)
+- Alistair Moffat and Artem Polyvyanyy (Foundations of Algorithms lecturers)
 - Aochen Duan (Lab & Comp 2 tutor)
 - David Batt (Real Analysis and Vector Calculus tutor)
 - Lachlan Tantau (VCE and UMEP Physics teacher)
@@ -24,7 +27,6 @@ and lastly
 - Akira Twang (for inspiring this readme file) [His Post](https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/README.md)
 
 ## Subjects I'm Currently Taking
-
 - Machine Learning (COMP30027)
 - Linear Statistical Models (MAST30025)
 - Object Oriented Software Development (SWEN20003)
