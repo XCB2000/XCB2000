@@ -11,8 +11,8 @@
 
 I am now a fourth-year undergraduate student at the University of Melbourne. Initially, I wanted to be a physicist, however after 2.5 years of study (completing the physics major requirements in this time) I've decided that I want to work in data science instead. I have since enrolled into concurrent diplomas in statistics and computer science since Melbourne doesn't have double majors for science.   
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)
-[My Facebook](https://www.facebook.com/profile.php?id=100011710417222)
-[My website](to be added)
+[My Facebook](https://www.facebook.com/profile.php?id=100011710417222)  
+[My website](https://github.com/xanderbritz/xanderbritz.github.io)
 ## Thank You!!
 - Alistair Moffat and Artem Polyvyanyy (Foundations of Algorithms lecturers)
 - Aochen Duan (Lab & Comp 2 tutor)
