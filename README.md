@@ -8,8 +8,7 @@
 </p>
 
 ## About Me  
-I am interested in science and technology :)
-The subfield that I am most interested in at the moment is the application of techniques of data science and statistics to broader science. One example of this is the use of different forms of machine learning to medical science, but there are many more. 
+At the moment, I am most interested in the application of techniques of data science and statistics to broader science. One example of this is the use of different forms of machine learning to medical science, but there are many more. 
 I also have an interest in scientific computing appllied to engineering, however I don't have much experience in it yet.
 Whatever I end up doing, it's going to involve a computer, math, and some form of research (either industrial or academic).
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)  
