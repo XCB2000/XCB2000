@@ -8,8 +8,10 @@
 </p>
 
 ## About Me  
-
-I am now a fourth-year undergraduate student at the University of Melbourne. Initially, I wanted to be a physicist, however after 2.5 years of study (completing the physics major requirements in this time) I've decided that I want to work in data science instead. I have since enrolled into concurrent diplomas in statistics and computer science since Melbourne doesn't have double majors for science.   
+I am interested in science and technology :)
+The subfield that I am most interested in at the moment is the application of techniques of data science and statistics to broader science. One example of this is the use of different forms of machine learning to medical science, but there are many more. 
+I also have an interest in scientific computing appllied to engineering, however I don't have much experience in it yet.
+Whatever I end up doing, it's going to involve a computer, math, and some form of research (either industrial or academic).
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)  
 [My Facebook](https://www.facebook.com/profile.php?id=100011710417222)  
 [My website](https://github.com/xanderbritz/xanderbritz.github.io)  
@@ -23,7 +25,7 @@ I am now a fourth-year undergraduate student at the University of Melbourne. Ini
 - Martin Corcoran (Jazz Band Conductor) 
 - Erica Sporri (Biology Teacher)
 - Ursula Parker (Science Teacher) 
-- Karin Wessels (Primary School Teacher) 
+- Karin Wessels (Primary School Teacher)  
 and lastly
 - Akira Twang (for inspiring this readme file) [His Post](https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/README.md)
 
