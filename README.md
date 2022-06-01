@@ -22,10 +22,11 @@ Whatever I end up doing, it's going to involve a computer, math, and some form o
 - Lachlan Tantau (VCE and UMEP Physics teacher)
 - Eugene Roizman (VCE Spesh and Methods teacher)
 - Erica Sporri (VCE Biology Teacher)
+- Steven Perry (Systems Engineering Teacher)
 - Martin Corcoran (Jazz Band Conductor) 
 - Simon Upchurch (Primary School Teacher)  
 - Karin Wessels (Primary School Teacher)  
-- Akira Twang (for inspiring this readme file) [His Post](https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/README.md)
+Also Akira Twang for inspiring this readme file [His Post](https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/README.md)
 
 ## Subjects I'm Currently Taking
 - Machine Learning (COMP30027)
@@ -33,26 +34,23 @@ Whatever I end up doing, it's going to involve a computer, math, and some form o
 - Object Oriented Software Development (SWEN20003)
 - Elements of Data Processing (COMP20008)
 
-## Some of the Subjects I've Studied:
+## Subjects I've Studied So Far
 ### Third Year Physics Subjects:
 - Quantum Physics (PHYC30018)
 - Electrodynamics (PHYC30016)
 - Laboratory and Computational Physics 3 (PHYC30021)
 - Astrophysics (PHYC30019)
 
-### Computing & Information Systems (CIS) Subjects:
-- Foundations of Computing (COMP10001)
-- Foundations of Algorithms (COMP10002)
-- Database Systems (INFO20005)
-
-### Mathematics:
+### Third and Second Year Math Subjects:
 - Complex Analysis (MAST30021)
 - Differential Equations (MAST20030)
-- Vector Calculus (MAST20009)
 - Real Analysis (MAST20026)
+- Vector Calculus (MAST20009)
+- Statistics (MAST20005)
 - Probability (MAST20004)
 
-## My Personal Subject Reviews 
-
-section tbc
+### Computing & Information Systems (CIS) Subjects:
+- Database Systems (INFO20005)
+- Foundations of Algorithms (COMP10002)
+- Foundations of Computing (COMP10001)
 
