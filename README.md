@@ -1,4 +1,4 @@
-<h1 align="center">Xander Christiaan Britz</h1>
+<h1 align="center">Xander Britz</h1>
 
 <p align = "center">  
   <img src = "https://user-images.githubusercontent.com/99328686/153312158-ae5a89b9-f193-4a2b-91a2-d42b21bd3ba9.jpg">
