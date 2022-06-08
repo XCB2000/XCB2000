@@ -12,7 +12,6 @@ At the moment, I am most interested in the application of techniques of data sci
 I also have an interest in scientific computing appllied to engineering, however I don't have much experience in it yet.
 Whatever I end up doing, it's going to involve a computer, math, and some form of research (either industrial or academic).  
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)  
-[My Facebook](https://www.facebook.com/profile.php?id=100011710417222)    
 [My website](https://github.com/xanderbritz/xanderbritz.github.io)  
 
 ## Thank You!!
