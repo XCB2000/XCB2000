@@ -5,23 +5,10 @@ I have an interest in scientific computing appllied to engineering, however I do
 Whatever I end up doing, it's going to involve a computer, math, and some form of research (either industrial or academic).  
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)  
 
-## Thank You!!
-- Alistair Moffat and Artem Polyvyanyy (Foundations of Algorithms lecturers)
-- Aochen Duan (Lab & Comp 2 tutor)
-- David Batt (Real Analysis and Vector Calculus tutor)
-- Lachlan Tantau (VCE and UMEP Physics teacher)
-- Eugene Roizman (VCE Spesh and Methods teacher)
-- Erica Sporri (VCE Biology Teacher)
-- Steven Perry (Systems Engineering Teacher)
-- Martin Corcoran (Jazz Band Conductor) 
-- Simon Upchurch (Primary School Teacher)  
-- Karin Wessels (Primary School Teacher)  
-Also Akira Twang for inspiring this readme file [His Post](https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/README.md)
-
 ## Subjects I'm Currently Taking
-- Stochastic Modelling (MAST30001)
--	Numerical Methods & Scientific Computing (MAST30028)
 -	Methods of Mathematical Physics (MAST30031)
+-	Numerical Methods & Scientific Computing (MAST30028)
+- Stochastic Modelling (MAST30001)
 
 ## Subjects I've Studied So Far
 ### Third Year Physics Subjects:
@@ -46,3 +33,15 @@ Also Akira Twang for inspiring this readme file [His Post](https://github.com/ak
 - Foundations of Algorithms (COMP10002)
 - Foundations of Computing (COMP10001)
 
+## Thank You!!
+- Alistair Moffat and Artem Polyvyanyy (Foundations of Algorithms lecturers)
+- Aochen Duan (Lab & Comp 2 tutor)
+- David Batt (Real Analysis and Vector Calculus tutor)
+- Lachlan Tantau (VCE and UMEP Physics teacher)
+- Eugene Roizman (VCE Spesh and Methods teacher)
+- Erica Sporri (VCE Biology Teacher)
+- Steven Perry (Systems Engineering Teacher)
+- Martin Corcoran (Jazz Band Conductor) 
+- Simon Upchurch (Primary School Teacher)  
+- Karin Wessels (Primary School Teacher)  
+Also Akira Twang for inspiring this readme file [His Post](https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/README.md)
