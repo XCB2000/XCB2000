@@ -1,12 +1,5 @@
 <h1 align="center">Xander Britz</h1>
 
-<p align = "center">  
-  <img src = "https://user-images.githubusercontent.com/99328686/153312158-ae5a89b9-f193-4a2b-91a2-d42b21bd3ba9.jpg">
-</p>
-<p align = "center">
- Photo of me irl
-</p>
-
 ## About Me  
 I have an interest in scientific computing appllied to engineering, however I don't have much experience in it yet.
 Whatever I end up doing, it's going to involve a computer, math, and some form of research (either industrial or academic).  
