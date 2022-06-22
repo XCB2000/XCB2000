@@ -8,11 +8,9 @@
 </p>
 
 ## About Me  
-At the moment, I am most interested in the application of techniques of data science and statistics to broader science. One example of this is the use of different forms of machine learning to medical science, but there are many more. 
-I also have an interest in scientific computing appllied to engineering, however I don't have much experience in it yet.
+I have an interest in scientific computing appllied to engineering, however I don't have much experience in it yet.
 Whatever I end up doing, it's going to involve a computer, math, and some form of research (either industrial or academic).  
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)  
-[My website](https://github.com/xanderbritz/xanderbritz.github.io)  
 
 ## Thank You!!
 - Alistair Moffat and Artem Polyvyanyy (Foundations of Algorithms lecturers)
@@ -28,10 +26,9 @@ Whatever I end up doing, it's going to involve a computer, math, and some form o
 Also Akira Twang for inspiring this readme file [His Post](https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/README.md)
 
 ## Subjects I'm Currently Taking
-- Machine Learning (COMP30027)
-- Linear Statistical Models (MAST30025)
-- Object Oriented Software Development (SWEN20003)
-- Elements of Data Processing (COMP20008)
+- Stochastic Modelling (MAST30001)
+-	Numerical Methods & Scientific Computing (MAST30028)
+-	Methods of Mathematical Physics (MAST30031)
 
 ## Subjects I've Studied So Far
 ### Third Year Physics Subjects:
@@ -41,6 +38,7 @@ Also Akira Twang for inspiring this readme file [His Post](https://github.com/ak
 - Astrophysics (PHYC30019)
 
 ### Third and Second Year Math Subjects:
+- Linear Statistical Models (MAST30025)
 - Complex Analysis (MAST30021)
 - Differential Equations (MAST20030)
 - Real Analysis (MAST20026)
@@ -49,6 +47,8 @@ Also Akira Twang for inspiring this readme file [His Post](https://github.com/ak
 - Probability (MAST20004)
 
 ### Computing & Information Systems (CIS) Subjects:
+- Machine Learning (COMP30027)
+- Elements of Data Processing (COMP20008)
 - Database Systems (INFO20005)
 - Foundations of Algorithms (COMP10002)
 - Foundations of Computing (COMP10001)
