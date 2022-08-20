@@ -1,14 +1,9 @@
 <h1 align="center">Xander Britz</h1>
 
-## About Me  
-I have an interest in scientific computing appllied to engineering, however I don't have much experience in it yet.
-Whatever I end up doing, it's going to involve a computer, math, and some form of research (either industrial or academic).  
+ 
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)  
 
-## Subjects I'm Currently Taking
--	Methods of Mathematical Physics (MAST30031)
--	Numerical Methods & Scientific Computing (MAST30028)
-- Stochastic Modelling (MAST30001)
+Durre
 
 ## Subjects I've Studied So Far
 ### Third Year Physics Subjects:
@@ -42,6 +37,8 @@ Whatever I end up doing, it's going to involve a computer, math, and some form o
 - Erica Sporri (VCE Biology Teacher)
 - Steven Perry (Systems Engineering Teacher)
 - Martin Corcoran (Jazz Band Conductor) 
+- Ursula Parker (High School Science Teacher)
+- Mr Menon (High School Science Teacher)
 - Simon Upchurch (Primary School Teacher)  
 - Karin Wessels (Primary School Teacher)  
 Also Akira Twang for inspiring this readme file [His Post](https://github.com/akiratwang/UniMelb-Data-Science-Information/blob/main/README.md)
