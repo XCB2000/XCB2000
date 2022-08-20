@@ -3,8 +3,7 @@
  
 [My LinkedIn Profile](www.linkedin.com/in/xanderbritz)  
 
-Durre
-
+Currently on leave from uni. 
 ## Subjects I've Studied So Far
 ### Third Year Physics Subjects:
 - Quantum Physics (PHYC30018)
